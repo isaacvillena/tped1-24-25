@@ -1,0 +1,95 @@
+body{
+
+    header{
+        height: 50px;
+        margin: auto;
+        padding: 0px;
+        background-color: rgb(44, 56, 146);
+    }
+
+    img {
+        border: 0;
+        display: block;
+        height: auto;
+        
+     }
+
+     .imagenportada{
+        width: 100%;
+     }
+        
+        .parrafo {
+            text-align: justify;
+            max-width: 500px;
+            margin: 50px auto;
+        }
+
+        .parrafo img {
+            width: 200%;
+            margin-left: -250px ;
+            
+
+        }
+
+    h1 {
+           font-family: inherit;
+            font-size: 40pt;
+            width: 50%;
+            text-align: center;
+            margin: 50px auto;
+            vertical-align: baseline;
+            
+
+        }
+
+        h2{
+            font-family: 'Benton Sans', Sans-Serif;
+            font-weight: lighter;
+            font-size: 1em;
+            margin-bottom: 80px;
+            line-height: 165%;
+            color: #444;
+            text-align: center;
+
+        }
+
+    .parrafo {
+        font-family: 'Benton Sans', Sans-Serif;
+        font-size: 1em;
+        line-height: 165%;
+        color: #444;
+        
+     }
+     
+
+     ul li {
+      list-style: none;  
+      margin-bottom: 30pt;
+      margin-left: -40px;
+       
+     }
+
+     .fotocentrada{
+        margin-left: 200pt;
+        margin-right: 200pt;
+     
+
+     }
+
+     .imagenfinal{
+        margin: 50px auto;
+        width: 700px;
+     }
+
+     .imagentrust{
+        margin: 50px auto;
+        width: 100px;
+
+     }
+
+     strong{
+        color: black;
+        font-weight: bolder;
+     }
+}
+
