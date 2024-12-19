@@ -1,0 +1,12 @@
+body{
+    background-color: red;
+}
+.arriba {
+    height: 15vh;
+}
+.abajo {
+    height: 80vh;
+}
+.derecha {
+    height: 97vh;
+}
